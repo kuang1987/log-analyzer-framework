@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.swp
+*/*/*.pyc
+*/*/*.pyo
+*/*/*.swp
+*/*.pyc
+*/*.pyo
+*/*.swp
+./static
+./static/*
